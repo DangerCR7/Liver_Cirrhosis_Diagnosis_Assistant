@@ -69,13 +69,13 @@ Liver-Cirrhosis-AI/
 
 
 - 🧪 **MRI Scans Dataset (.nii format)**:  
-  [📁 Google Drive Link]((https://drive.google.com/drive/folders/12059rgR_v7K9n_xK1QKqYyLhJkITy1FU?usp=drive_link))
+  [📁 Google Drive Link](https://drive.google.com/drive/folders/12059rgR_v7K9n_xK1QKqYyLhJkITy1FU?usp=drive_link)
 
 - 📋 **Clinical Data and Dietery Datasets (CSV)**:  
-  [📁 Google Drive Link]((https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link))
+  [📁 Google Drive Link](https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link)
 
 - **Trained Models**:
-  [📁 Google Drive Link]((https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link))
+  [📁 Google Drive Link](https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link)
 
   
 ---
@@ -123,7 +123,7 @@ streamlit run app.py
 
 **Your Name**  
 B.Tech Artificial Intelligence and Machine Learning  
-[📧 your.email@example.com](mailto:lallithkavi@gmail.com)  
+[📧 lallithkavi@gmail.com](mailto:lallithkavi@gmail.com)  
 [🔗 LinkedIn](https://linkedin.com/in/lallith-ar-cr7) • [🐙 GitHub](https://github.com/DangerCR7)
 
 ---
