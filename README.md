@@ -68,14 +68,18 @@ Liver-Cirrhosis-AI/
 > Note: You must be logged into Google Drive or Kaggle to access datasets.
 
 - 🧪 **MRI Scans Dataset (.nii format)**:  
-  [📁 Google Drive Link](https://drive.google.com/your-mri-dataset-link)
+  [📁 Google Drive Link]([https://drive.google.com/drive/folders/12059rgR_v7K9n_xK1QKqYyLhJkITy1FU?usp=drive_link])
 
 - 📋 **Clinical Data (CSV)**:  
-  [📁 Google Drive Link](https://drive.google.com/your-clinical-data-link)
+  [📁 Google Drive Link]([https://drive.google.com/drive/folders/1_DjhMNj3NH0vEcscXNK6WqC0dxOvBCd0?usp=drive_link])
 
 - 🥗 **Dietary Dataset**:  
-  [📁 Google Drive Link](https://drive.google.com/your-food-dataset-link)
+  [📁 Google Drive Link]([https://drive.google.com/drive/folders/1_DjhMNj3NH0vEcscXNK6WqC0dxOvBCd0?usp=drive_link])
 
+- **Trained Models**:
+  [📁 Google Drive Link]([https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link])
+
+  
 ---
 
 ## 💻 Installation & Setup
@@ -127,8 +131,8 @@ streamlit run app.py
 
 **Your Name**  
 B.Tech Artificial Intelligence and Machine Learning  
-[📧 your.email@example.com](mailto:your.email@example.com)  
-[🔗 LinkedIn](https://linkedin.com/in/your-profile) • [🐙 GitHub](https://github.com/your-username)
+[📧 your.email@example.com](mailto:lallithkavi@gmail.com)  
+[🔗 LinkedIn](https://linkedin.com/in/lallith-ar-cr7) • [🐙 GitHub](https://github.com/DangerCR7)
 
 ---
 
