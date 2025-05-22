@@ -67,17 +67,15 @@ Liver-Cirrhosis-AI/
 
 > Note: You must be logged into Google Drive or Kaggle to access datasets.
 
+
 - 🧪 **MRI Scans Dataset (.nii format)**:  
-  [📁 Google Drive Link]([https://drive.google.com/drive/folders/12059rgR_v7K9n_xK1QKqYyLhJkITy1FU?usp=drive_link])
+  [📁 Google Drive Link]([https://drive.google.com/your-mri-dataset-link](https://drive.google.com/drive/folders/12059rgR_v7K9n_xK1QKqYyLhJkITy1FU?usp=drive_link))
 
-- 📋 **Clinical Data (CSV)**:  
-  [📁 Google Drive Link]([https://drive.google.com/drive/folders/1_DjhMNj3NH0vEcscXNK6WqC0dxOvBCd0?usp=drive_link])
-
-- 🥗 **Dietary Dataset**:  
-  [📁 Google Drive Link]([https://drive.google.com/drive/folders/1_DjhMNj3NH0vEcscXNK6WqC0dxOvBCd0?usp=drive_link])
+- 📋 **Clinical Data and Dietery Datasets (CSV)**:  
+  [📁 Google Drive Link]([https://drive.google.com/your-clinical-data-link](https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link))
 
 - **Trained Models**:
-  [📁 Google Drive Link]([https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link])
+  [📁 Google Drive Link]([[https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link]](https://drive.google.com/drive/folders/18YxKo7OCuYefpZPa7R3o4i9QhYZxXX-o?usp=drive_link))
 
   
 ---
@@ -100,13 +98,7 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Screenshots
 
-| MRI Diagnosis | Stage Prediction | Food Suggestion |
-|---------------|------------------|-----------------|
-| ![MRI](screenshots/mri_ui.png) | ![Stage](screenshots/stage_ui.png) | ![Food](screenshots/food_ui.png) |
-
----
 
 ## 📈 Model Performance
 
